@@ -2,6 +2,8 @@
 
 An interactive educational website to teach Hebrew in a simple and effective way, specially developed for Portuguese speakers.
 
+👉 [**Visit here**](https://nandabri.github.io/ShalomPractice/)
+
 ## 📖 About the Project
 
 **Shalom Practice** is a web platform dedicated to teaching the Hebrew language, offering a complete learning experience adapted for Portuguese Speakers. The project aims to facilitate access to Hebrew knowledge, whether for religious, cultural, or personal purposes.
